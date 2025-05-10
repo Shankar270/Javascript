@@ -17,7 +17,9 @@ let a3=6
 a3=b1// we can change and modify the value
 console.log(Number(a2)+a3)//changeing string into number
 console.log(a2+a3)
+
+
 const a4=5
 const a5=7
-//a5=a3 we cannot change or modify the value
+//a5=a3 we cannot change or modify the value because we use const
 console.log(a4+a5)
